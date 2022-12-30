@@ -14,8 +14,9 @@
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
 <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
 <ul><br>
-<li> 𝘏𝘛𝘔𝘓5, 𝘊𝘚𝘚3, 𝘑𝘢𝘷𝘢𝘚𝘤𝘳𝘪𝘱𝘵 𝘌𝘚6</li>
-<li>𝘙𝘦𝘢𝘤𝘵, 𝘛𝘺𝘱𝘦𝘚𝘤𝘳𝘪𝘱𝘵</li>
+<li> 𝘏𝘛𝘔𝘓5, 𝘊𝘚𝘚3, </li>
+<li>𝘙𝘦𝘢𝘤𝘵</li>
+<li>𝘑𝘢𝘷𝘢𝘚𝘤𝘳𝘪𝘱𝘵 𝘌𝘚6, 𝘛𝘺𝘱𝘦𝘚𝘤𝘳𝘪𝘱𝘵</li>
 <li>𝘙𝘦𝘢𝘤𝘵 𝘙𝘦𝘥𝘶𝘹, 𝘙𝘦𝘥𝘶𝘹-𝘵𝘰𝘰𝘭𝘬𝘪𝘵</li>
 <li>𝘙𝘦𝘢𝘤𝘵 𝘳𝘰𝘶𝘵𝘦𝘳 𝘥𝘰𝘮 𝘷6, 𝘞𝘦𝘣𝘱𝘢𝘤𝘬</li>
 <li>𝘗𝘰𝘴𝘵𝘮𝘢𝘯, 𝘔𝘰𝘯𝘨𝘰𝘋𝘉</li>
