@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 <h1 align="center">𝘏𝘪 𝘵𝘩𝘦𝘳𝘦, 𝘔𝘺 𝘯𝘢𝘮𝘦 𝘪𝘴 , <a href="https://github.com/Ridvanes" target="_blank">Ridvan</a> 𝘐'𝘮 25 𝘺.𝘰. 𝘍𝘳𝘰𝘯𝘵𝘦𝘯𝘥 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳.</h1>
 <h3>𝘛𝘩𝘦 𝘴𝘵𝘢𝘤𝘬 𝘰𝘧 𝘵𝘦𝘤𝘩𝘯𝘰𝘭𝘰𝘨𝘪𝘦𝘴 𝘐 𝘸𝘰𝘳𝘬 𝘸𝘪𝘵𝘩:<h3>
 <img src='https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white'>
@@ -16,7 +13,7 @@
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
 <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
-<ul {list-style="none"}><br>
+<ul {list-style=none}><br>
 <li > 𝘏𝘛𝘔𝘓5, 𝘊𝘚𝘚3, 𝘑𝘢𝘷𝘢𝘚𝘤𝘳𝘪𝘱𝘵 𝘌𝘚6</li>
 <li>𝘙𝘦𝘢𝘤𝘵, 𝘛𝘺𝘱𝘦𝘚𝘤𝘳𝘪𝘱𝘵</li>
 <li>𝘙𝘦𝘢𝘤𝘵 𝘙𝘦𝘥𝘶𝘹</li>
