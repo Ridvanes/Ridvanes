@@ -3,7 +3,6 @@
 
 <h1 align="center">𝘏𝘪 𝘵𝘩𝘦𝘳𝘦, 𝘔𝘺 𝘯𝘢𝘮𝘦 𝘪𝘴 , <a href="https://github.com/jokerjok1" target="_blank">Ridvan</a> 𝘐'𝘮 25 𝘺.𝘰. 𝘍𝘳𝘰𝘯𝘵𝘦𝘯𝘥 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳.
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h1>https://github.com/Ridvanes</h1>
 <h3>𝘛𝘩𝘦 𝘴𝘵𝘢𝘤𝘬 𝘰𝘧 𝘵𝘦𝘤𝘩𝘯𝘰𝘭𝘰𝘨𝘪𝘦𝘴 𝘐 𝘸𝘰𝘳𝘬 𝘸𝘪𝘵𝘩:<h3>
 <img src='https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white'>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
